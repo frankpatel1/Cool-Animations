@@ -1,1 +1,1 @@
-# Cool-Animations
+This GitHub repository is a comprehensive and curated resource dedicated to providing detailed summaries of iconic anime series. Designed for both anime enthusiasts and developers interested in building anime-related applications or websites, the collection offers quick, accurate, and engaging plot overviews. The repository aims to simplify the process of discovering anime content and supports community collaboration by encouraging users to enhance and expand the collection.# Cool-Animations
